@@ -1,7 +1,7 @@
 
-# MyNote
+# Use Cases
 
-This is the repository for MyNote.
+This is a proposal for the repository to hole use cases for the RDF-star working group.
 
 ## Remove everything from this line when you're done
 
