@@ -1,7 +1,7 @@
 
 # Use Cases
 
-This is a proposal for the repository to hole use cases for the RDF-star working group.
+This is a proposal for the repository to hold use cases for the RDF-star working group.
 
 ## Remove everything from this line when you're done
 
