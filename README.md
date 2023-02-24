@@ -2,6 +2,7 @@
 # Use Cases
 
 This is a proposal for the repository to hold use cases for the RDF-star working group.
+Use cases are submitted as wiki pages in the repository wiki.
 
 ## Remove everything from this line when you're done
 
