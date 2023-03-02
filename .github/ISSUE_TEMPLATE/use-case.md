@@ -11,7 +11,6 @@ assignees: ''
 
 * Submitted By: your name and email contact information
 * Working Group Asignee:  you may leave this blank
-* Status: submitted
 
 ## Scope
 
