@@ -1,14 +1,8 @@
 
 # Use Cases
 
-This is a proposal for the repository to hold use cases for the RDF-star working group.
-Use cases are submitted as wiki pages in the repository wiki.
 
-## Remove everything from this line when you're done
+Use cases that are accepted by the working group are considered as the working group determines what facilities to put in its recommendations. To submit a new use case for consideration by the working group, create a new page issue in this repository using the Use Case template.
 
-Please update the following files:
+Use a descriptive issue title for your use case. Add information about your use case to the template. The more information you provide the more likely it is that your use case will have an effect on the results of the working group. Be sure to add your contact information so that you can be contacted as your use case is considered by the working group. You can utilize existing use cases as examples.
 
-* w3c.json : make sure group ID and contacts are correct
-* index.html : update the respec config as needed
-* README.md : remove these instructions and update as needed
-* .travis.yml : for automatic publishing, you'll need the [proper group decision email](https://github.com/w3c/echidna/wiki/How-to-use-Echidna-with-ReSpec-and-GitHub#working-group-approval) and you'll need to [secure your TOKEN](https://github.com/w3c/echidna/wiki/How-to-use-Echidna-with-ReSpec-and-GitHub#working-group-approval)
